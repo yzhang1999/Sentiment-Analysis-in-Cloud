@@ -1,5 +1,5 @@
 # Sentiment-Analysis-in-Cloud
-The primary goal of this project is to develop a real-time sentiment analysis system that evaluates the sentiment of customer reviews on Amazon. 
+The primary goal of this project is to develop and deploy a real-time sentiment analysis system to the cloud, which evaluates the sentiment of customer reviews on Amazon.
 
 ## Table of Contents
 - [Project Description](#project-description)
